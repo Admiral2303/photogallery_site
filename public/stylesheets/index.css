@@ -1,0 +1,41 @@
+body {}
+
+.logo {
+    text-align: center;
+}
+
+.header-style {
+    color: #4d311f;
+    transition: border-bottom .3s ease-out;
+    letter-spacing: 1px;
+    font-family: roboto-example, sans-serif;
+    text-decoration: none;
+    outline: 0;
+}
+
+a {
+    font-size: 18px;
+    font-weight: 500;
+    color: #4d311f;
+    background-color: transparent;
+    border-bottom: 1px solid transparent;
+}
+
+.logotype {
+    margin-top: 4%;
+}
+
+.images {
+    margin-top: 5%;
+}
+
+.image {
+    height: 112%;
+    width: 102%;
+}
+
+.profimg {
+    height: 80%;
+    width: 80%;
+    margin-bottom: 5%;
+}
